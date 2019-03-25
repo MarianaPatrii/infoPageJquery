@@ -1,0 +1,27 @@
+* {
+    background: url('../img/bg.png') center no-repeat;
+}
+
+.container {
+    width: 600px;
+    padding-top: 100px;
+}
+
+.tab-content {
+    height: 300px;
+    border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+
+a {
+    color:#333;
+}
+
+.active {
+    color: black;
+}
+
+p {
+    padding: 20px;
+}
